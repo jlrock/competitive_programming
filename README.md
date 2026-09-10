@@ -1,0 +1,1 @@
+# Repositório de estudos em Programação Competitiva e C++
