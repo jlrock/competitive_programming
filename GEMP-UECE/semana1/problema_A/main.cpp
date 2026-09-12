@@ -17,13 +17,13 @@ int main(){
     int pC = v[0]+v[1];
     int pF = v[3]+v[4];
 
-     if(pC>pF){
+    if(pC>pF){
         cout << "C\n";
-     }
-     else if(pC<pF){
+    }
+    else if(pC<pF){
         cout << "F\n";
-     }
-     else{
+    }
+    else{
         if(v[2]>v[5]){
             cout << "C\n";
         }
@@ -33,6 +33,6 @@ int main(){
         else{
             cout << "=\n";
         }
-     }
+    }
     return 0;
 }
