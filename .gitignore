@@ -1,6 +1,7 @@
-.vscode/
-*.bin
+.vscode
+output
 *.exe
-*.o
 *.obj
+*.bin
+*.o
 sol
